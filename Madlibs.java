@@ -2,8 +2,8 @@ import java.util.Scanner;
 /**
  * Write a description of class Madlibs here.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author (Drew Phipps)
+ * @version (9/16/2022)
  */
 
 public class Madlibs
